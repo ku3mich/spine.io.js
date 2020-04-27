@@ -1,0 +1,30 @@
+{
+  "name": "@spine/io",
+  "version": "0.0.1",
+  "description": "Interprocess communication library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ku3mich/spine.io.js.git"
+  },
+  "keywords": [
+    "ipc",
+    "stdin",
+    "stdout",
+    "electron",
+    "spine",
+    "communication"
+  ],
+  "author": "Serhii Kuzmychov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ku3mich/spine.io.js/issues"
+  },
+  "homepage": "https://github.com/ku3mich/spine.io.js#readme",
+  "devDependencies": {
+    "mocha": "^7.1.2"
+  }
+}
